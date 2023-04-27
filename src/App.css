@@ -12,6 +12,14 @@ h3, p {
   color: white;
 }
 
+.title {
+  font-size: 27.5px;
+}
+
+.date {
+  font-size: 26px;
+}
+
 h3 {
   border: solid white;
 }
